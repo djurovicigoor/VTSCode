@@ -1,0 +1,5 @@
+ALTER TABLE `ime_tabele`
+DROP `ime_atributa` 
+
+ALTER TABLE `profesori`
+DROP `veca_plata`;

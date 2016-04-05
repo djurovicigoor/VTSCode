@@ -1,0 +1,6 @@
+<script>
+function myFunction() {
+    var txt = "Chapter 10";
+    txt.anchor("chap10");
+    alert(txt.anchor("chap10"));
+}

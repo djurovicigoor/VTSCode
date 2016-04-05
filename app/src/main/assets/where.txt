@@ -1,0 +1,13 @@
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele`
+WHERE kolona operator vrednost;
+
+SELECT * 
+FROM `profesori`
+WHERE ime="Marko";
+
+operatori:=,!=,>,<,<=,>=
+ako ima jednu od vrednosti:WHERE kolona operator vrednost IN('vred1','vred2')
+opseg :WHERE kolona operator vrednost BETWEEEN 'vred1' AND 'vred2'
+ako oba tacna: WHERE kolona operator vrednost AND kolona operator vrednost 
+ako jedan tacan: WHERE kolona operator vrednost OR kolona operator vrednost 

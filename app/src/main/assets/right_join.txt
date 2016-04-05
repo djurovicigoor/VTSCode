@@ -1,0 +1,10 @@
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele1`
+RIGHT JOIN `ime_tabele2`
+ON ime_tabele1.kolona=ime_tabele2.kolona;
+
+SELECT Customers.CustomerName, Orders.OrderID
+FROM Customers
+RIGHT JOIN Orders
+ON Customers.CustomerID=Orders.CustomerID
+ORDER BY Customers.CustomerName;

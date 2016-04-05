@@ -1,0 +1,5 @@
+Inicijalizacija vrednosti
+<data_type> <variable_list>;
+Dodeljivanje vrednosti varijabli
+variable_name = value;
+<data_type> <variable_name> = value;

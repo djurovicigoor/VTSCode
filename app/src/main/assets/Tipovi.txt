@@ -1,0 +1,8 @@
+boolean - logicki tip podatka, sadrzi true ili false
+char - karakter
+byte - ceo broj (8 bita)
+short - ceo broj (16 bita)
+int - ceo broj (32 bita)
+long - ceo broj (64 bita)
+float - realan broj sa pokretnim zarezom
+double - realan broj u eksponencijalnom obliku

@@ -1,0 +1,6 @@
+﻿C# podržava sledeće specifikatore pristupa:
+    Public
+    Private
+    Protected
+    Internal
+    Protected internal

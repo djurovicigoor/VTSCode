@@ -1,0 +1,3 @@
+imeKlase(tip parame1, tip param2,...){
+        naredbe;
+}

@@ -1,0 +1,18 @@
+﻿CHARACTER(n) 	String karaktera. Fiksna dužina n
+VARCHAR(n) or
+CHARACTER VARYING(n) 	String karaktera. Nefiksna dužina. Maksimalna dužina n
+BINARY(n) 	Binarni string. Fiksna dužina n
+BOOLEAN 	TRUE ili FALSE vrednosti
+INTEGER(p) 	Integer (bez decimale).
+SMALLINT 	Integer (bez decimale).
+INTEGER 	Integer (bez decimale).
+BIGINT 		Integer (bez decimale).
+FLOAT 		Approximate numerical, mantissa precision 16
+DOUBLE 		Approximate numerical, mantissa precision 16
+DATE 	Vrednost godine,meseca i dana
+TIME 	Vrednost sata, minute i sekunde
+TIMESTAMP 	Vrednost godine,meseca,dana,sata, minute i sekunde
+TEXT	Tekst
+ENUM	Jedna od naznačenih vrednosti u nizu
+ARRAY 	Niz
+XML 	xml kod

@@ -1,0 +1,4 @@
+<Specifikator pristupa> <Povratni tip varijable> <Ime metode>(Lista parametara)
+{
+  Telo metode
+}

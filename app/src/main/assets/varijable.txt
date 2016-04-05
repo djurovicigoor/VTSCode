@@ -1,0 +1,10 @@
+﻿bool 	true ili false
+byte 	8-bit unsigned integer
+char 	16-bit Unicode character
+decimal 128-bit precise decimal values with 28-29 significant digits
+double 	64-bit double-precision floating point type
+float  	32-bit single-precision floating point type
+int  	32-bit signed integer type 	
+long  	64-bit signed integer type
+sizeof(type) daje veličinu skladišta za objekat ili tip u bajtovima
+enum 	set imenovanih konstanti 

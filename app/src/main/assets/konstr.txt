@@ -1,0 +1,5 @@
+
+Class::Class (int a, int b) {
+  wi = a;
+  he = b;
+}

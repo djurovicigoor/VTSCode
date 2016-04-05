@@ -1,0 +1,3 @@
+MAX('kolona')
+
+SELECT MAX('kolona') FROM `ime_tabele`;

@@ -1,0 +1,20 @@
+try
+{
+   // naredbe koje izazivaju izuzetak
+}
+catch( ExceptionName e1 )
+{
+   // kod koji hendluje grešku
+}
+catch( ExceptionName e2 )
+{
+   // kod koji hendluje grešku
+}
+catch( ExceptionName eN )
+{
+   /// kod koji hendluje grešku
+}
+finally
+{
+   // naredbe koje se izvršavaju na kraju
+}

@@ -1,0 +1,13 @@
+Naredbe uslovljavanja:
+ - if
+ -switch
+
+ Naredbe ciklusa:
+ - while
+ - do-while
+ - for
+
+ Naredbe skoka:
+ - break
+ - continue
+ - return

@@ -1,0 +1,7 @@
+UPDATE `ime_tabele`
+SET atribut1=vredost1,atribut2=vredost2,...
+WHERE atribut=vrednost;
+
+UPDATE `profesori`
+SET `ime`='Stefan',`prezime`='Stefanovic',`godina`=33
+WHERE `id_prof`= 8;

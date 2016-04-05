@@ -1,0 +1,10 @@
+INSERT INTO `ime_tabele` (atribut1,atribut2,atribut3, ...)
+VALUES(vrednost1,vrednost2,vrednost3, ...)
+
+INSERT INTO `profesori` (`ime`,`prezime`,`titula`)
+VALUES('Pera','Peric','');
+
+INSERT INTO `profesori` (`ime`,`prezime`,`titula`)VALUES
+('Pera','Peric',''),
+('Mika','Mikic','mr.'),
+('Stefan','Stefanovic','dr.');

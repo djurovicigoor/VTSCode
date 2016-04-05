@@ -1,0 +1,22 @@
+<specifikatori pristupa> class  Ime_klase
+{
+   // member variables
+   <specifikatori pristupa> <tip_varijable> variable1;
+   <specifikatori pristupa> <tip_varijable> variable2;
+   ...
+   <specifikatori pristupa> <tip_varijable> variableN;
+   // member methods
+   <specifikatori pristupa> <povratni tip> method1(lista_parametara)
+   {
+      // telo metode
+   }
+   <specifikatori pristupa> <povratni tip> method2(lista_parametara)
+   {
+      // telo metode
+   }
+   ...
+   <specifikatori pristupa> <povratni tip> methodN(lista_parametara)
+   {
+      // telo metode
+   }
+}

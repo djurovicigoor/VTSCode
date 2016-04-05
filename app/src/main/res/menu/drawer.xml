@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/html"
+            android:checked="false"
+            android:icon="@drawable/html5icon"
+            android:title="@string/html_string"/>
+
+        <item
+            android:id="@+id/css"
+            android:checked="false"
+            android:icon="@drawable/css3icon"
+            android:title="@string/css_string" />
+        <item
+            android:id="@+id/javascript"
+            android:checked="false"
+            android:icon="@drawable/jsicon"
+            android:title="@string/javascript_string" />
+        <item
+            android:id="@+id/jquery"
+            android:checked="false"
+            android:icon="@drawable/jqueryicon"
+            android:title="@string/jquery_string" />
+       <!-- <item
+            android:id="@+id/xml"
+            android:checked="false"
+            android:icon="@drawable/xmlicon"
+            android:title="@string/xml_string" />-->
+        <item
+            android:id="@+id/sql"
+            android:checked="false"
+            android:icon="@drawable/sqlicon"
+            android:title="@string/sql_string" />
+        <item
+            android:id="@+id/cplusplus"
+            android:checked="false"
+            android:icon="@drawable/cppicon"
+            android:title="@string/cpp_string" />
+        <item
+            android:id="@+id/csharp"
+            android:checked="false"
+            android:icon="@drawable/csharp"
+            android:title="@string/csharp_string" />
+        <item
+            android:id="@+id/java"
+            android:checked="false"
+            android:icon="@drawable/javaicon"
+            android:title="@string/java_string" />
+        <item
+            android:id="@+id/php"
+            android:checked="false"
+            android:icon="@drawable/phpicon"
+            android:title="@string/php_string" />
+        <item
+            android:id="@+id/aboutus"
+            android:checked="false"
+            android:icon="@drawable/profile1"
+            android:title="O Timu" />
+
+        <item
+            android:id="@+id/settings"
+            android:checked="false"
+            android:icon="@drawable/profile1"
+            android:title="Podešavanja" />
+    </group>
+</menu>

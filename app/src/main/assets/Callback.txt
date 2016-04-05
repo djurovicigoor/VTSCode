@@ -1,0 +1,5 @@
+$("button").click(function(){
+    $("p").hide("slow", function(){
+        alert("Ovaj element je sakriven.");
+    });
+});

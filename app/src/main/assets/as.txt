@@ -1,0 +1,1 @@
+SELECT 'kolona' AS alijas FROM `ime_tabele`;

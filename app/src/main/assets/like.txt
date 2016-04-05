@@ -1,0 +1,11 @@
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele`
+WHERE kolona LIKE obrazac;
+
+SELECT * 
+FROM `profesori`
+WHERE ime LIKE 'ana';
+
+sadrzi ana: '%ana%'
+pocinje sa ana: 'ana%'
+zavrsava sa ana: '%ana'

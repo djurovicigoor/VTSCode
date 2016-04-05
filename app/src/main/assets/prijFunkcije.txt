@@ -1,0 +1,6 @@
+class class_name
+{
+    ......  ....   ........
+    friend return_type function_name(argument/s);
+    ......  ....   ........
+}

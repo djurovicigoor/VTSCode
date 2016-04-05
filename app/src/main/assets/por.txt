@@ -1,0 +1,6 @@
+== jednako
+!= razlicito
+> vece od
+< manje od
+>= vece od, ili jednako
+<= manje od, ili jednako

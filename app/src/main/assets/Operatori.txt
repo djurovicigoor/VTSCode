@@ -1,0 +1,14 @@
+Aritmeticki operatori:
+++, --, +, -, *, /, %.
+
+Logicki operatori:
+&&, ||, ^.
+
+Operatori poredjenja:
+==, !=, <, >, <=, >=.
+
+Operatori dodele vrednosti:
+=, +=, -=, *=, /+, %=.
+
+Operatori za rad sa bitovima:
+&, |, ^, <<, >>, >>>.

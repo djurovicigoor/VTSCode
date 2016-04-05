@@ -1,0 +1,7 @@
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele`
+ORDER BY kolona ASC|DESC, kolona ASC|DESC;
+
+SELECT * 
+FROM `profesori`
+ORDER BY prezime ASC,ime ASC;

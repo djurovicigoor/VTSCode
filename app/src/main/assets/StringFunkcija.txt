@@ -1,0 +1,20 @@
+<body>
+
+<button onclick="myFunction()">Kovertuj.</button>
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    var x1 = Boolean(0);
+    var x3 = new Date();
+    var x5 = 12345;
+
+    var res =
+    String(x1) + "<br>" +
+    String(x3) + "<br>" +
+    String(x5);
+    document.getElementById("demo").innerHTML = res;
+}
+</script>
+</body>
+</html>

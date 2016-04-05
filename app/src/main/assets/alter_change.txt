@@ -1,0 +1,5 @@
+ALTER TABLE `ime_tabele`
+CHANGE `ime_atributa` `novo_ime` tip_podatka
+
+ALTER TABLE `profesori`
+CHANGE `plata` `veca_plata`INT(7) UNSIGNED NOT NULL;

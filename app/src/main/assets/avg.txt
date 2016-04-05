@@ -1,0 +1,5 @@
+AVG('kolona')
+
+SELECT AVG('kolona') FROM `ime_tabele`;
+
+SELECT `ime` AS 'stariji_profesori' FROM `profesori` WHERE `godine`>AVG(`godine`);

@@ -1,0 +1,3 @@
+vector< tip_elemenata > ime_promenljive;
+vector< tip_elemenata > ime_promenljive(broj_elemenata);
+vector< tip_elemenata > ime_promenljive(broj_elemenata, inicijalna_vrednost);

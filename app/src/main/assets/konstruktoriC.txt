@@ -1,0 +1,29 @@
+using System;
+namespace LineApplication
+{
+   class Line
+   {
+      private double length;   
+      public Line()  //konstruktor
+      {
+         Console.WriteLine("Objekat se kreira.");
+      }
+      public void setLength( double len )
+      {
+         length = len;
+      }      
+      public double getLength()
+      {
+         return length;
+      }
+      static void Main(string[] args)
+      {
+         Line line = new Line();    
+         
+         // set line length
+         line.setLength(6.0);
+         Console.WriteLine("Length of line : {0}", line.getLength());
+         Console.ReadKey();
+      }
+   }
+}

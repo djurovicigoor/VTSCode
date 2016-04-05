@@ -1,0 +1,10 @@
++ sabiranje
+- oduzimanje
+* mnozenje
+/ deljenje
+% ostatak pri deljenju
+++ uvecanje za 1
++= dodeljivanje uz sabiranje
+-= dodeljivanje uz oduzimanje
+*= dodeljivanje uz mnozenje
+-- umanjenje za 1

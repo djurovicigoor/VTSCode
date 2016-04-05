@@ -1,0 +1,5 @@
+Primeri:
+
+import paket.klasa //koriscenje konkretne klase
+
+import paket.*; //koriscenje svih klasa iz paketa

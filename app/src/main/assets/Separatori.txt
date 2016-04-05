@@ -1,0 +1,5 @@
+() - odvajanje liste parametara od poziva metode
+
+{} - ogradjivanje vrednosti, blokova naredbi...
+
+[] - deklarisanje nizova

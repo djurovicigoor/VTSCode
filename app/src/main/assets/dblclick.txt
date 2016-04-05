@@ -1,0 +1,7 @@
+<script>
+$(document).ready(function(){
+    $("p").dblclick(function(){
+        alert("Kliknuli ste duplim klikom na ovaj pasus.");
+    });
+});
+</script>

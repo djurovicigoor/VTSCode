@@ -1,0 +1,4 @@
+<script>
+var f = parseFloat("40 years") + "<br>";
+document.getElementById("demo").innerHTML = n;
+</script>

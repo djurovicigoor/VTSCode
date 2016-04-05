@@ -1,0 +1,11 @@
+%c - znak
+%s - string
+%d - integer (celi broj)
+%f - float
+%lf - double
+%o - oktalni podatak
+%sd – short integer
+%ld – long integer
+.d – najviše d decimala
+%x - heksadecimalni podatak
+%% - ispis znaka %

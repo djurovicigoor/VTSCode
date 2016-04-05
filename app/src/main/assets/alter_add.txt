@@ -1,0 +1,5 @@
+ALTER TABLE `ime_tabele`
+ADD `ime_atributa` tip_podatka
+
+ALTER TABLE `profesori`
+ ADD `plata` FLOAT(5,2) UNSIGNED NOT NULL;

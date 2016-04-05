@@ -1,0 +1,10 @@
+<script>
+$(document).ready(function(){
+    $("p").mouseenter(function(){
+        $("p").css("background-color", "yellow");
+    });
+    $("p").mouseleave(function(){
+        $("p").css("background-color", "lightgray");
+    });
+});
+</script>

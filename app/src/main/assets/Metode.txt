@@ -1,0 +1,3 @@
+Tip ime_metode(){
+    //telo metode...
+}

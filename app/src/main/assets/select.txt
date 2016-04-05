@@ -1,0 +1,11 @@
+SELECT *
+FROM `ime_tabele`
+
+SELECT *
+FROM `profesori`;
+
+SELECT `ime_kolone1`,`ime_kolone2`
+FROM `ime_tabele`;
+
+SELECT `ime`,`prezime`
+FROM `profesori`;

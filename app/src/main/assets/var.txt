@@ -1,0 +1,1 @@
+﻿Varijable su atributi korišćeni za skladištenje podataka. Mogu biti vrednost, referenca ili pointer.

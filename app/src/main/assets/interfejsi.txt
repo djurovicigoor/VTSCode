@@ -1,0 +1,6 @@
+public interface transakcije
+{
+   // interface members
+   void pokaziTransakcije();
+   double uzmiKolicinu();
+}

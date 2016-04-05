@@ -1,0 +1,11 @@
+& logicka konjukcija
+| logička disjunkcija (OR - ili)
+^ logička isključiva disjunkcija
+|| kratkospojena disjunkcija
+&& kratkospojena konjunkcija
+&= dodeljivanje uz logičku konjunkciju
+== jednako
+!= razlicito
+?: trojni operator uslovne dodele
+
+

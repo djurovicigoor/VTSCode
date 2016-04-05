@@ -1,0 +1,11 @@
+ If iskaz 
+ if...else iskaz
+ ugnježdeni if iskazi
+ switch iskaz
+ while petlja
+ for petlja
+ do...while petlja
+ ugnježdene petlje
+ break naredba
+ continue naredba
+ ? : operator 

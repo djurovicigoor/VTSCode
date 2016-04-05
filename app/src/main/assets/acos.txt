@@ -1,0 +1,5 @@
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = Math.acos(0.5);
+}
+</script>

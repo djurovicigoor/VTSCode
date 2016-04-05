@@ -1,0 +1,13 @@
+<body>
+
+<button onclick="myFunction()">Klikni me</button>
+
+<p id="demo"></p>
+
+<script>
+function myFunction() {
+    document.getElementById("demo").innerHTML = "Zdravo!";
+}
+</script>
+
+</body>

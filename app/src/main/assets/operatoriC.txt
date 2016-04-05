@@ -1,0 +1,19 @@
+﻿A=10 B=20
++ 		A + B = 30
+- 		A - B = -10
+* 		A * B = 200
+/ 	 	B / A = 2
+% 	 	B % A = 0
+++ 		A++ = 11
+-- 	 	A-- = 9
+
+== 		(A == B) is not true.
+!= 	 	(A != B) is true.
+> 	 	(A > B) is not true.
+< 	 	(A < B) is true.
+>= 	 	(A >= B) is not true.
+<= 	 	(A <= B) is true.
+A=true B=false ,logički operatori
+&& 		(A && B) is false.
+|| 	 	(A || B) is true.
+! 	 	!(A && B) is true.

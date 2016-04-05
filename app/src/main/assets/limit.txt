@@ -1,0 +1,19 @@
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele`
+ORDER BY kolona ASC|DESC, kolona ASC|DESC
+LIMIT broj;
+
+SELECT * 
+FROM `profesori`
+ORDER BY prezime ASC,ime ASC
+LIMIT 10;
+
+SELECT `kolona`,`kolona` 
+FROM `ime_tabele`
+ORDER BY kolona ASC|DESC, kolona ASC|DESC
+LIMIT ofset,broj;
+
+SELECT * 
+FROM `profesori`
+ORDER BY prezime ASC,ime ASC
+LIMIT 3,10;

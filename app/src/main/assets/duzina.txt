@@ -1,0 +1,10 @@
+#include<iostream.h>
+#include<string.h>
+int main()
+{
+char buffer[80];
+cout << "Unesite string do 80 karaktera: ";
+cin.get(buffer,80); //uzima do 79 karaktera ili novog reda - return
+cout << “Vaš string je: “ << strlen(buffer) << “ karaktera dug “ << endl;
+return 0;
+}

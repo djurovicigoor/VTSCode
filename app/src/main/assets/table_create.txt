@@ -1,0 +1,8 @@
+CREATE TABLE `profesori`(
+	`id_prof` INT(3) UNSIGNED NOT NULL AUTO_INCRMENT,
+	`ime` VARCHAR(20),
+	`prezime` VARCHAR(20),
+	`adresa` VARCHAR(250),
+	`titula` ENUM('','mr','dr'),
+	PRIMARY KEY (`id_prof`)
+)ENGINE=InnoDB DEFAULT CHARSET=utf8 AUTO_INCREMENT=1;

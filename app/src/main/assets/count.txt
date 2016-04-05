@@ -1,0 +1,8 @@
+SELECT COUNT(*) FROM `ime_tabele`;
+
+SELECT COUNT(*) AS NumberOfOrders FROM Orders;
+
+SELECT COUNT(`kolona`) FROM `ime_tabele`;
+
+SELECT COUNT(Customer) AS OrdersFromCustomers FROM Orders
+WHERE CustomerID=7; 

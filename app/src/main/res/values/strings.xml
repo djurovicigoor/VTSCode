@@ -1,0 +1,718 @@
+<resources>
+    <string name="app_name">VtsCode</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="navigation_item_1">Home</string>
+    <string name="navigation_item_2">Events</string>
+
+    <string name="html_string">HTML</string>
+    <string name="css_string">CSS</string>
+    <string name="javascript_string">JavaScript</string>
+    <string name="jquery_string">jQuery</string>
+    <string name="xml_string">XML</string>
+    <string name="sql_string">SQL</string>
+    <string name="cpp_string">C++</string>
+    <string name="csharp_string">C#</string>
+    <string name="java_string">Java</string>
+    <string name="php_string">PHP</string>
+    <string name="button_send">Send!</string>
+
+    <string name="closeDrawer">Navigation View</string>
+    <string name="openDrawer">Navigation View Closed</string>
+
+    <string name="quit">Da li stvarno želite da izadjete?</string>
+    <string name="quit_message">Izlazite iz aplikacije {VTSCode}.</string>
+
+    <string-array name="html">
+
+        <item>&lt;html&gt;&lt;/html&gt;</item>
+        <item>&lt;body&gt;&lt;/body&gt;</item>
+        <item>&lt;head&gt;&lt;/head&gt;</item>
+        <item>&lt;link&gt;&lt;/link&gt;</item>
+        <item>&lt;script&gt;&lt;/script&gt;</item>
+        <item>&lt;a&gt;&lt;/a&gt;</item>
+        <item>&lt;h1&gt;&lt;/h1&gt;</item>
+        <item>&lt;h2&gt;&lt;/h2&gt;</item>
+        <item>&lt;h3&gt;&lt;/h3&gt;</item>
+        <item>&lt;h4&gt;&lt;/h4&gt;</item>
+        <item>&lt;h5&gt;&lt;/h5&gt;</item>
+        <item>&lt;h6&gt;&lt;/h6&gt;</item>
+
+    </string-array>
+
+    <string-array name="html_browser">
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+        <item>CFOSI</item>
+    </string-array>
+
+    <string-array name="html_explanation">
+
+        <item>Osnovni tag</item>
+        <item>Telo dokumenta</item>
+        <item>Zaglavlje</item>
+        <item>Ukljucivanje biblioteka</item>
+        <item>Pisanje nekog script jezika</item>
+        <item>Link</item>
+        <item>Naslov prvog nivoa</item>
+        <item>Naslov drugog nivoa</item>
+        <item>Naslov treceg nivoa</item>
+        <item>Naslov cetvrtog nivoa</item>
+        <item>Naslov petog nivoa</item>
+        <item>Naslov setog nivoa</item>
+
+    </string-array>
+
+    <string-array name="html_tagname">
+
+        <item>html.txt</item>
+        <item>body.txt</item>
+        <item>head.txt</item>
+        <item>link.txt</item>
+        <item>script.txt</item>
+        <item>a.txt</item>
+        <item>h1.txt</item>
+        <item>h2.txt</item>
+        <item>h3.txt</item>
+        <item>h4.txt</item>
+        <item>h5.txt</item>
+        <item>h6.txt</item>
+
+    </string-array>
+
+    <string-array name="css">
+
+        <item>.class</item>
+        <item>.id</item>
+        <item>:active</item>
+        <item>:after</item>
+        <item>:before</item>
+        <item>:first-child</item>
+        <item>:first-letter</item>
+        <item>:first-line</item>
+        <item>:focus</item>
+        <item>:hover</item>
+        <item>:link</item>
+        <item>:visited</item>
+
+    </string-array>
+
+    <string-array name="css_explanation">
+
+        <item>Element klase</item>
+        <item>Jedinstveno odredjuje klasu</item>
+        <item>Aktivni element</item>
+        <item>Element posle</item>
+        <item>Element pre</item>
+        <item>Prvo dete elementa</item>
+        <item>Koristi se za dodavanje stila prvom elementu</item>
+        <item>Koristi se za dodavanje stila prvoj liniji odredjenog elementa</item>
+        <item>Element sa fokusom</item>
+        <item>Element kada mis predje preko njega</item>
+        <item>Link koji nije posecen</item>
+        <item>Link koji je posecen</item>
+
+    </string-array>
+
+    <string-array name="javascript">
+
+        <item>abs()</item>
+        <item>acos()</item>
+        <item>anchor()</item>
+        <item>asin()</item>
+        <item>atan()</item>
+        <item>Komentar</item>
+        <item>getElementById</item>
+        <item>Funkcija</item>
+        <item>Objekat</item>
+        <item>Onclick</item>
+        <item>Onmouseover</item>
+        <item>String()</item>
+        <item>Math.random()</item>
+        <item>Date()</item>
+        <item>parseFloat()</item>
+        <item>getFullYear()</item>
+        <item>Boolean()</item>
+        <item>onkeydown()</item>
+        <item>onchange()</item>
+        <item>onmouseout()</item>
+    </string-array>
+
+    <string-array name="javascript_filename">
+        <item>abs.txt</item>
+        <item>acos.txt</item>
+        <item>anchor.txt</item>
+        <item>asin.txt</item>
+        <item>atan.txt</item>
+        <item>komentar.txt</item>
+        <item>getElementById.txt</item>
+        <item>Function.txt</item>
+        <item>Objekat.txt</item>
+        <item>Onclick.txt</item>
+        <item>Onmouseover.txt</item>
+        <item>StringFunkcija.txt</item>
+        <item>Mathrandom.txt</item>
+        <item>Date.txt</item>
+        <item>parseFloat.txt</item>
+        <item>getFullYear.txt</item>
+        <item>Boolean.txt</item>
+        <item>onkeydown.txt</item>
+        <item>onchange.txt</item>
+        <item>onmouseout.txt</item>
+    </string-array>
+
+    <string-array name="javascript_explanation">
+
+        <item>Vraca apsolutnu vrednostu broja</item>
+        <item>Vraca vrednost arcuscosinus u radijanima</item>
+        <item>Vraca apsolutnu vrednostu broja</item>
+        <item>Vraca vrednost arcuscosinus u radijanima</item>
+        <item>Vraca apsolutnu vrednostu broja</item>
+        <item>Stavlja komentar.</item>
+        <item>Vraca element sa ID atributom.</item>
+        <item>Poziva blok koda.</item>
+        <item>Kreiranje i pozivanje objekta.</item>
+        <item>Izvrsi JavaScript kada se klikne.</item>
+        <item>Izvrsi JavaScript kada miš stane preko nečeg.</item>
+        <item>Kovertuje različite objekte u string.</item>
+        <item>Stvori slučajan broj.</item>
+        <item>Prikaži datum.</item>
+        <item>Pretvara string u float.</item>
+        <item>Vrati godinu.</item>
+        <item>Vrati true ili false vrednost.</item>
+        <item>Izvrsi JavaScript kada korisnik pretiska taster.</item>
+        <item>Izvrsi JavaScript kada korisnik promeni opciju izabranog elementa.</item>
+        <item>Izvrsi JavaScript kada pomerite mis van elementa.</item>
+    </string-array>>
+
+
+    <string-array name="jquery">
+
+        <item>hide()</item>
+        <item>show()</item>
+        <item>ready()</item>
+        <item>click()</item>
+        <item>toggle()</item>
+        <item>fadeIn()</item>
+        <item>slideDown()</item>
+        <item>animate()</item>
+        <item>stop()</item>
+        <item>Callback</item>
+        <item>Get</item>
+        <item>dblclick()</item>
+        <item>mouseenter()</item>
+        <item>mouseleave()</item>
+        <item>slideDown()</item>
+        <item>slideUp()</item>
+        <item>slideToggle()</item>
+        <item>css()</item>
+        <item>remove()</item>
+        <item>add()</item>
+
+    </string-array>
+
+    <string-array name="jquery_filename">
+
+        <item>hide.txt</item>
+        <item>show.txt</item>
+        <item>ready.txt</item>
+        <item>clickjquery.txt</item>
+        <item>toggle.txt</item>
+        <item>fadein.txt</item>
+        <item>slideDown.txt</item>
+        <item>animate.txt</item>
+        <item>stop.txt</item>
+        <item>Callback.txt</item>
+        <item>Get.txt</item>
+        <item>dblclick.txt</item>
+        <item>mouseenter.txt</item>
+        <item>mouseleave.txt</item>
+        <item>slideDown.txt</item>
+        <item>slideUp.txt</item>
+        <item>slideToggle.txt</item>
+        <item>css.txt</item>
+        <item>remove.txt</item>
+        <item>add.txt</item>
+
+    </string-array>
+
+    <string-array name="jquery_explanation">
+
+        <item>Sakriva element.</item>
+        <item>Pokazuje element.</item>
+        <item>Sprema funkciju kada se učita stranica.</item>
+        <item>Klikom na element, izvrši funkciju.</item>
+        <item>Kruži hide() i show() između jednog elementa.</item>
+        <item>Izbledi element.</item>
+        <item>Kreira efekat klizanja.</item>
+        <item>Kreira animaciju.</item>
+        <item>Zaustavlja animaciju ili efekat.</item>
+        <item>Funkcija se izvršava nakon završenog efekta.</item>
+        <item>Dozvoljava manipulaciju DOM-a.</item>
+        <item>Duplim klikom na element, izvrši funkciju.</item>
+        <item>Postavkom misa preko nekog elementa, izvrši funkciju.</item>
+        <item>Pomeranjem misa sa nekog elementa, izvrši funkciju.</item>
+        <item>Sklizne element na dole.</item>
+        <item>Sklizne element na gore.</item>
+        <item>Sklizne element.</item>
+        <item>Namesti ili vrati jednu ili više vrednosti izabranog elementa.</item>
+        <item>Ukloni postojeći HTML element.</item>
+        <item>Dodaj novi element.</item>
+
+    </string-array>
+
+    <string-array name="sql">
+        <item>Tipovi podataka</item>
+        <item>SHOW DATABASES;</item>
+        <item>CREATE DATABASE `ime_baze`;</item>
+        <item>DROP DATABASE `ime_baze`;</item>
+        <item>USE `ime_baze`;</item>
+        <item>SHOW TABLES;</item>
+        <item>CREATE TABLE `ime_tabele`</item>
+        <item>DESCRIBE `ime_tabele`;</item>
+        <item>ALTER TABLE `ime_tabele` ADD </item>
+        <item>ALTER TABLE `ime_tabele` CHANGE </item>
+        <item>ALTER TABLE `ime_tabele` DROP </item>
+        <item>INSERT INTO `ime_tabele` VALUES()</item>
+        <item>UPDATE `ime_tabele` SET</item>
+        <item>TRUNCATE TABLE `ime_tabele`;</item>
+        <item>DROP TABLE `ime_tabele`</item>
+        <item>SELECT</item>
+        <item>FROM</item>
+        <item>GROUP BY</item>
+        <item>HAVING</item>
+        <item>ORDER BY</item>
+        <item>LIMIT</item>
+        <item>WHERE</item>
+        <item>LIKE</item>
+        <item>AS</item>
+        <item>INNER JOIN</item>
+        <item>LEFT JOIN</item>
+        <item>RIGHT JOIN</item>
+        <item>COUNT</item>
+        <item>SUM</item>
+        <item>AVG</item>
+        <item>MAX</item>
+        <item>MIN</item>
+    </string-array>
+
+    <string-array name="sql_explanation">
+        <item>Svi tipovi podataka</item>
+        <item>Prikazivanje baza podataka</item>
+        <item>Kreiranje baze podataka</item>
+        <item>Izbriši bazu podataka</item>
+        <item>Koristi bazu ime_baze</item>
+        <item>Prikaži tabele u trenutnoj bazi</item>
+        <item>Kreiranje tabele</item>
+        <item>Prikazuje atribute tabele</item>
+        <item>Dodaje atribut u tabelu</item>
+        <item>Menja atribut u tabeli</item>
+        <item>Briše atribut iz tabele</item>
+        <item>Ubacuje vrednost u tabelu</item>
+        <item>Menja vrednost u koloni sa određenim uslovom, bez uslova se svi menjaju</item>
+        <item>Briše podatke u tabeli</item>
+        <item>Briše tabelu</item>
+        <item>Uzima podatke iz baze</item>
+        <item>Određuje iz koje tabele uzima podatke</item>
+        <item>Po kojoj koloni da ih grupiše</item>
+        <item>Dodaje uslov iskazu</item>
+        <item>U kakvom redosledu da vrati podatke </item>
+        <item>Na koliko rezultata da ogranići podatke</item>
+        <item>Daje rezultate samo sa tim uslovm</item>
+        <item>Traži sličan obrazac u podatcima </item>
+        <item>Spaja tabele dok god ima podataka u obe tabele</item>
+        <item>Preimenuje kolone rezultata</item>
+        <item>Vraća sve redove  iz leve tabele sa redovima u desnoj tabeli</item>
+        <item>Vraća sve redove  iz desne tabele sa redovima u levoj tabeli</item>
+        <item>funkcija koja vraća broj redova koji mečuju</item>
+        <item>funkcija koja vraća totalnu sumu vrednosti u koloni</item>
+        <item>funkcija koja vraća srednju vrednost svih kolona</item>
+        <item>funkcija koja vraća najveću vrednost u koloni</item>
+        <item>funkcija koja vraća najmanju vrednost u koloni</item>
+    </string-array>
+
+    <string-array name="sql_filename">
+        <item>all_types.txt</item>
+        <item>show_databases.txt</item>
+        <item>create_databases.txt</item>
+        <item>drop_database.txt</item>
+        <item>use_database.txt</item>
+        <item>show_tables.txt</item>
+        <item>table_create.txt</item>
+        <item>describe.txt</item>
+        <item>alter_add.txt</item>
+        <item>alter_change.txt</item>
+        <item>alter_drop.txt</item>
+        <item>insert_into.txt</item>
+        <item>update.txt</item>
+        <item>truncate.txt</item>
+        <item>drop_table.txt</item>
+        <item>select.txt</item>
+        <item>from.txt</item>
+        <item>group.txt</item>
+        <item>having.txt</item>
+        <item>order.txt</item>
+        <item>limit.txt</item>
+        <item>where.txt</item>
+        <item>like.txt</item>
+        <item>as.txt</item>
+        <item>inner_join.txt</item>
+        <item>left_join.txt</item>
+        <item>right_join.txt</item>
+        <item>count.txt</item>
+        <item>sum.txt</item>
+        <item>avg.txt</item>
+        <item>max.txt</item>
+        <item>min.txt</item>
+
+    </string-array>
+
+
+    <string-array name="cpp">
+        <item>Library</item>
+        <item>Standard output</item>
+        <item>Standard input</item>
+        <item>Escape codes</item>
+        <item>If-Else</item>
+        <item>Functions</item>
+        <item>Recursivity</item>
+        <item>The std namespace</item>
+        <item>Conversion characters</item>
+        <item>Initializing arrays</item>
+        <item>Classes</item>
+        <item>Data structures</item>
+        <item>Pointers to structures</item>
+        <item>Pointer initialization</item>
+        <item>Pointer arithmetics</item>
+        <item>Implicit members</item>
+        <item>Vectors in c++</item>
+        <item>strcpy() i strncpy()</item>
+        <item>strlen()</item>
+        <item>Constructors</item>
+        <item>Special members</item>
+        <item>Friend functions</item>
+    </string-array>
+
+    <string-array name="cpp_explanation">
+        <item>Standardne biblioteke</item>
+        <item>Prikaz na ekranu</item>
+        <item>Unos sa tastature</item>
+        <item>Rezervisani kodovi</item>
+        <item>Petlje if i else - primer</item>
+        <item>Funkcije u c++</item>
+        <item>Rekurzija</item>
+        <item>STD</item>
+        <item>Konverzioni karakteri</item>
+        <item>Inicijalizacija nizova</item>
+        <item>Primer klase</item>
+        <item>Strukture</item>
+        <item>Pokazivaci na strukture</item>
+        <item>Inicijalizacija pokazivaca</item>
+        <item>Aritmetika pokazivaca</item>
+        <item>Implicitni clanovi</item>
+        <item>Vektori</item>
+        <item>Naredbe kopiranja</item>
+        <item>Vraca duzinu nul-terminiranog niza</item>
+        <item>Kreiranje konstruktora</item>
+        <item>Specijalni clanovi</item>
+        <item>Prijateljske funkcije</item>
+    </string-array>
+
+    <string-array name="cpp_filename">
+        <item>Biblioteke.txt</item>
+        <item>Stampaj.txt</item>
+        <item>Unos.txt</item>
+        <item>Escape.txt</item>
+        <item>Petlje.txt</item>
+        <item>Funkcija.txt</item>
+        <item>Rekurzija.txt</item>
+        <item>std.txt</item>
+        <item>konverz.txt</item>
+        <item>niz.txt</item>
+        <item>classes.txt</item>
+        <item>Strukture.txt</item>
+        <item>Pokazivaci.txt</item>
+        <item>Inicpok.txt</item>
+        <item>Aritm.txt</item>
+        <item>implicit.txt</item>
+        <item>Vektori.txt</item>
+        <item>kop.txt</item>
+        <item>duzina.txt</item>
+        <item>konstr.txt</item>
+        <item>spec.txt</item>
+        <item>prijFunkcije.txt</item>
+    </string-array>
+
+    <string-array name="csharp">
+        <item>Varijable</item>
+        <item>Vrednosne varijable</item>
+        <item>Definisanje varijable i dodeljivanje vrednosti</item>
+        <item>Konstante</item>
+        <item>Operatori</item>
+        <item>Iskazi i naredbe</item>
+        <item>Specifikatori pristupa</item>
+        <item>Metode</item>
+        <item>Nizovi</item>
+        <item>Klasa</item>
+        <item>Konstruktori</item>
+        <item>Interfejsi</item>
+        <item>Izuzetci</item>
+
+    </string-array>
+
+    <string-array name="csharp_filename">
+        <item>var.txt</item>
+        <item>varijable.txt</item>
+        <item>defvar.txt</item>
+        <item>konstanta.txt</item>
+        <item>operatoriC.txt</item>
+        <item>petljeC.txt</item>
+        <item>specifikatori.txt</item>
+        <item>metod.txt</item>
+        <item>nizovi.txt</item>
+        <item>klasa.txt</item>
+        <item>konstruktoriC.txt</item>
+        <item>interfejsi.txt</item>
+        <item>trycatch.txt</item>
+    </string-array>
+
+    <string-array name="csharp_explanation">
+        <item>Varijable su atributi korišćeni za skladištenje podataka.</item>
+        <item>Podatci sa vrednošću</item>
+        <item>Sintaksa za definisanje varijable i dodeljivanje vrednosti</item>
+        <item>Varijable koje ne menjaju vrednost</item>
+        <item>Simboli za aritmetičke i logičke operacije</item>
+        <item>Petlje i upravljačke naredbe</item>
+        <item>Definišu obim i vidljivost člana klase</item>
+        <item>Metode su grupe naredbi koje zajedno rade neki zadatak</item>
+        <item>Skup varijabli smeštenih u niz</item>
+        <item>su planovi za objekte i kako se oni grade </item>
+        <item>su posebne metode koje iniciraju objekat</item>
+        <item>su definisani kao ugovori koje klase moraju da poštuju i izvrše</item>
+        <item>Try catch blok</item>
+    </string-array>
+
+    <string-array name="java">
+        <item>Prikaz na ekranu</item>
+        <item>Deklaracija</item>
+        <item>Inicijalizacija</item>
+        <item>Nizovi</item>
+        <item>Aritmeticki operatori</item>
+        <item>Operatori poredjenja</item>
+        <item>Logicki operatori</item>
+        <item>Kljucne Reci</item>
+        <item>Tipovi podataka</item>
+        <item>Klase</item>
+        <item>Petlje</item>
+        <item>Objekti</item>
+        <item>Nasledjivanje</item>
+        <item>Upravljacke naredbe</item>
+        <item>Metode</item>
+        <item>Metoda sa parametrima</item>
+        <item>Upravljanje pristupom</item>
+        <item>Konstruktori</item>
+        <item>Separatori</item>
+        <item>Paketi</item>
+        <item>Izuzeci</item>
+    </string-array>
+
+    <string-array name="java_explanation">
+        <item>Prikazi</item>
+        <item>Deklaracija promenljivih</item>
+        <item>Inicijalizacija promenljivih</item>
+        <item>Deklaracija niza</item>
+        <item>Aritmeticki operatori</item>
+        <item>Logicki operatori</item>
+        <item>Operatori poredjenja</item>
+        <item>Rezervisane reci u JAVI</item>
+        <item>Prosti i slozeni tipovi podataka</item>
+        <item>Kreiranje klase</item>
+        <item>For, While</item>
+        <item>Kreiranje objekta</item>
+        <item>Nasledjivanje klasa</item>
+        <item>Naredbe uslovljavanja, ciklusa i skoka</item>
+        <item>Kreiranje metoda</item>
+        <item>Primer metode sa parametrima</item>
+        <item>Pristup podacima klase</item>
+        <item>Kreiranje konstruktora</item>
+        <item>Objasnjenje separatora</item>
+        <item>Pristup klasama</item>
+        <item>Izuzeci</item>
+    </string-array>
+
+    <string-array name="java_filename">
+        <item>deklaracija.txt</item>
+        <item>inicijalizacija.txt</item>
+        <item>Nizovi.txt</item>
+        <item>aritmet.txt</item>
+        <item>por.txt</item>
+        <item>logic.txt</item>
+        <item>Stampaj.txt</item>
+        <item>KljucneReci.txt</item>
+        <item>Tipovi.txt</item>
+        <item>Klase.txt</item>
+        <item>pet.txt</item>
+        <item>Objekti.txt</item>
+        <item>Nasledjivanje.txt</item>
+        <item>Naredbe.txt</item>
+        <item>Metode.txt</item>
+        <item>PrMet.txt</item>
+        <item>Pristup.txt</item>
+        <item>Konstruktori.txt</item>
+        <item>Separatori.txt</item>
+        <item>Paketi.txt</item>
+        <item>Izuzeci.txt</item>
+    </string-array>
+
+    <string-array name="php">
+        <item>&lt;?php?&gt;</item>
+        <item>//</item>
+        <item>/**/</item>
+        <item>$ime_promenjive;</item>
+        <item>SKALARNE PROMENJIVE</item>
+        <item>SLOŽENE PROMENJIVE</item>
+        <item>SPECIJALNE PROMENJIVE</item>
+        <item>Cast operator </item>
+        <item>Konstante</item>
+        <item>Magične konstante</item>
+        <item>__LINE__</item>
+        <item>__FILE__</item>
+        <item>__DIR__</item>
+        <item>__FUNCTION__</item>
+        <item>Globalne promenjive</item>
+        <item>$GLOBALS</item>
+        <item>$_SERVER</item>
+        <item>$_GET</item>
+        <item>$_POST</item>
+        <item>$_FILES</item>
+        <item>$_REQUEST</item>
+        <item>$_SESSION</item>
+        <item>$_COOKIE</item>
+        <item>setcookie(name, value, expire, path, domain, secure, httponly);</item>
+        <item>session_start()</item>
+        <item>session_unset(); </item>
+        <item>session_destroy(); </item>
+        <item>Stringovi sa ’’</item>
+        <item>Stringovi sa ““</item>
+        <item>Konkatenacija stringova</item>
+        <item>Definicija funkcije</item>
+        <item>Pozivanje funkcije</item>
+        <item>Modifikator pristupa</item>
+        <item>Komanda za vraćanje</item>
+        <item>Grananje if</item>
+        <item>Grananje if,alternativa</item>
+        <item>Grananje switch</item>
+        <item>Petlje while</item>
+        <item>Petlje for</item>
+        <item>break; i continue;</item>
+        <item>require "xxx.php" i include "xxx.php"</item>
+        <item>echo $ime_promenjive;</item>
+        <item>print_r($ime_promenjive);</item>
+        <item>var_dump($ime_promenjive);</item>
+        <item>header(’location:http://google.com’);</item>
+        <item>die();</item>
+        <item>time();</item>
+        <item>date(‘format’);</item>
+        <item>rand($min,$max);</item>
+        <item>pow($x,$y);</item>
+        <item>squrt($a);</item>
+        <item>Zaokruživanje brojeva</item>
+        <item>number_format(1234567.00, 2, ’,’, ’.’ )</item>
+        <item>explode(‘ ’,$string);</item>
+        <item>implode($array);</item>
+        <item>srtoupper($string);</item>
+        <item>strlen($x);</item>
+        <item>substring($x,$start,$end);</item>
+        <item>Definisanje klase</item>
+        <item>Pozivanje klase</item>
+        <item>Pozivanje svojstva iz objekta</item>
+        <item>Pozivanje metode iz objekta</item>
+        <item>Pozivanje metode iz klase</item>
+        <item>Pozivanje metode iz klase,unutar klase </item>
+    </string-array>
+
+    <string-array name="php_explanation">
+        <item>Sav PHP kod se piše u ovim tagovima</item>
+        <item>Jednoredni komentar</item>
+        <item>Viseredni komentar</item>
+        <item>Ne sme da pocinje sa brojem treba izbegavati donju crtu na pocetku,case sensitive</item>
+        <item>boolean, integer, float, string</item>
+        <item>array(nizovi,matrice),object</item>
+        <item>resource, null</item>
+        <item>Cast operator (bool) pretvara u bool,(int) pretvara u int</item>
+        <item>Konstante se definišu velikim slovima,ne može se menjati,vidi se u funkcijama,poziva se samo naziv.</item>
+        <item>su konstante koje php drži kao podatke o sebi</item>
+        <item>prikazuje broj linije koda</item>
+        <item>prikazuje putanju do fajla</item>
+        <item>prikazuje ime direktorijuma</item>
+        <item>prikazuje naziv funkcije</item>
+        <item>su promenjive koje se vide svugde u kodu.</item>
+        <item>niz svih globalnih promenjivih</item>
+        <item>niz koji čuva podatke o headerima,putanjama i skriptama</item>
+        <item>podatci poslati kroz GET metodu</item>
+        <item>podatci poslati kroz POST metodu</item>
+        <item>sadrzi fajlove iz reqvesta</item>
+        <item>može biti GET i POST</item>
+        <item>podatci iz sesije</item>
+        <item>podatci u kolačiču</item>
+        <item>funkcija za postavljanje podataka u kolačić</item>
+        <item>funkcija za startovanje sesije</item>
+        <item>funkcija za brisanje podataka iz sesije</item>
+        <item>funkcija za uništavanje sesije</item>
+        <item>‘string’ tekst,jednostruki navodnici,eskejpuje se \’-&gt;’ ; \\-&gt;\; </item>
+        <item>“Osoba je $name” dvostruki navodnici očekuje promenjive i zamenjuje ih u stringu, formatira:\n,\r,\t,\v,\e,\f,\\,\$,\“</item>
+        <item>Spajanje stringova se vrši taćkom [ . ]</item>
+        <item>function stampanjeTeksta(){ echo ‘text’;}</item>
+        <item>stampanjeTeksta();</item>
+        <item>public,protected,private</item>
+        <item>return; ili return $nesto;</item>
+        <item>if(uslov){***}elseif(uslov){***}else{***}</item>
+        <item>&lt;?php if(uslov):?&gt; **** &lt;?php endif;?&gt;</item>
+        <item>switch(promenjiva){case “x”: ***;break;default:***;break;}</item>
+        <item>while(uslov){***}; ili do{***}while(uslov);</item>
+        <item>for(pocetni;uslov;brojac){***} ili foreach($niz as $element){***}</item>
+        <item>Prekida petlju i prekida iteraciju petlje </item>
+        <item>require je obavezno uključenje fajla,dok include samo baci upozorenje ako nepronađe fajl.</item>
+        <item>Štampanje skalarnih promenjivih</item>
+        <item>Štampanje svih tipova promenjivih</item>
+        <item>Štampa vrednost i tip promenjivih</item>
+        <item>Automacki prebacuje na lokaciju google.com</item>
+        <item>Prekida izvršenje php-a</item>
+        <item>Daje timestamp od trenutne sekunde u UNIX vremenu</item>
+        <item>Formatira datum</item>
+        <item>Random broj u opsegu $min-$max</item>
+        <item>Stepenovanje </item>
+        <item>Korenovanje</item>
+        <item>ceil(5.2);(zaokruzuje na višu cifru=6),round(5.2);(zaokružuje na srednju cifru=5),floor(5.9);(zaokružuje na nižu cifru=5)</item>
+        <item>Formatira broj</item>
+        <item>Razbija na posebne stringove</item>
+        <item>Spaja niz u string</item>
+        <item>Sva slova u uppercase</item>
+        <item>Velićina stringa</item>
+        <item>Izvlači deo stringa</item>
+        <item>class Klasa extends Nadklasa{****}</item>
+        <item>$objekat=new Klasa();</item>
+        <item>$objekat-&gt;svojstvo;</item>
+        <item>$objekat-&gt;metoda();</item>
+        <item>Klasa::metoda();</item>
+        <item>self::konstant</item>
+    </string-array>
+
+
+    <string name="O_timu">
+        VTŠ Apps Team čine nastavnici i studenti Visoke tehničke škole strukovnih studija u Nišu kao i đaci tehničkih škola iz okruženja. Zahvaljujući podršci kompanije Samsung, naš Tim radi u okviru Samsung Apps Laboratoriji na razvoju aplikacija za smart telefone zasnovane na Android platformi, aplikacije za Samsung smart televizore i Web dizajnu. Takodje, ovo partnerstvo ima za cilj unapredjenje kvaliteta nastave, da podstakne nastavno osoblje i studente da primenjuju savremeno-komunikacione tehnologije ne samo u svakodnevnoj nastavi, već  i u realizaciji naučnih i praktičnih projektnih zadataka i studentskih radova.
+        </string>
+</resources>

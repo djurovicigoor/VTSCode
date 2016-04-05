@@ -1,0 +1,9 @@
+SELECT `kolona`,`kolona` FROM `ime_tabele`
+LEFT JOIN `ime_tabele`
+ON ime_tabele.kolona1=ime_tabele.kolona2
+GROUP BY kolona; 
+
+SELECT Shippers.ShipperName,COUNT(Orders.OrderID) AS NumberOfOrders FROM Orders
+LEFT JOIN Shippers
+ON Orders.ShipperID=Shippers.ShipperID
+GROUP BY ShipperName; 

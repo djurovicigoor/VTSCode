@@ -1,0 +1,1 @@
+tip naziv_niza[] = new tip [dužina niza];

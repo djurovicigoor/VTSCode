@@ -1,0 +1,2 @@
+strcpy(string2,string1) i
+strncpy(string2,string1,MaxLength)
